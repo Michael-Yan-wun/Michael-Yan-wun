@@ -24,4 +24,4 @@ I create some projects mainly about AI, and web application. For instance, fasio
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> 
  <div/>
 
- [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Yan-wun&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Yan-wun&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
