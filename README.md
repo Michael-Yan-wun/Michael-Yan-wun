@@ -25,6 +25,4 @@ I create some projects mainly about AI, and web application. For instance, fasio
  <div/>
 
  ### My Github Stats:
- <div style="display:flex;align-times:center;justify-content:center">
-  ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Yan-wun&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<div/>
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Yan-wun&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
