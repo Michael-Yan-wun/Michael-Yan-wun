@@ -6,7 +6,7 @@ Wlecome to my coding base. I'm Michael Lin, a passionate self-taught AI, data de
 
 I create some projects mainly about AI, and web application. For instance, fasion recommend system, online course system, negative-news classified and so on.
 
-- Any freelance work? Contact me, [mail](yanwun1214@gmail.com]).
+- Any freelance work? Contact me, [My Email](yanwun1214@gmail.com]).
 - Asking me about everything? I am glad to help.
 
 ### Languages and Tools:
@@ -23,3 +23,5 @@ I create some projects mainly about AI, and web application. For instance, fasio
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> 
  <div/>
+
+ [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Yan-wun)](https://github.com/anuraghazra/github-readme-stats)
