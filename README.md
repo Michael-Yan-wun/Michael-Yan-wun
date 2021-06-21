@@ -7,9 +7,7 @@ Wlecome to my coding base. I'm Michael Lin, a passionate self-taught AI, data de
 I create some projects mainly about AI, and web application. For instance, fasion recommend system, online course system, negative-news classified and so on.
 
 #### Languages and Tools:
-![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> 
+ ![alt text]<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25"/>
