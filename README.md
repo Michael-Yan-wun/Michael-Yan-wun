@@ -25,4 +25,5 @@ I create some projects mainly about AI, and web application. For instance, fasio
  <div/>
 
  ### My Github Stats:
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Yan-wun&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michael-Yan-wun&show_icons=true&theme=synthwave&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Yan-wun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
