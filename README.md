@@ -6,7 +6,10 @@ Wlecome to my coding base. I'm Michael Lin, a passionate self-taught AI, data de
 
 I create some projects mainly about AI, and web application. For instance, fasion recommend system, online course system, negative-news classified and so on.
 
-#### Languages and Tools:
+- Any freelance work? Contact me, [mail](yanwun1214@gmail.com]).
+- Asking me about everything? I am glad to help.
+
+### Languages and Tools:
  <div style="display:inline;">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> 
