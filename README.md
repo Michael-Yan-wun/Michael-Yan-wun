@@ -1,11 +1,11 @@
 ### Hi there 👋
 <p>Wlecome to my coding base. I'm Michael Lin, a passionate self-taught AI, data developer and Full Stack web developer from Taiwan. My passion for engineer depends on dreaming to become an Engineer to make human life more convenient. I create some projects mainly about AI, and web application. For instance, fasion recommend system, online course system, negative-news classified and so on.</p>
 
-### Conatact me: 
+### Conatact me
 - Any freelance work? Contact me, [My Email](yanwun1214@gmail.com]).
 - Asking me about everything? I am glad to help.
 
-### Languages and Tools:
+### Languages and Tools
  <div style="display:inline;">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> 
@@ -20,7 +20,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> 
  <div/>
 
- ### My Github Stats:
+ ### My Github Stats
  <a href="https://github.com/Michael-Yan-wun/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Michael-Yan-wun&show_icons=true&theme=gruvbox&show_icons=true">
  <a/>
