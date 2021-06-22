@@ -6,8 +6,8 @@ Wlecome to my coding base. I'm Michael Lin, a passionate self-taught AI, data de
 
 I create some projects mainly about AI, and web application. For instance, fasion recommend system, online course system, negative-news classified and so on.
 
-Any freelance work? Contact me, [My Email](yanwun1214@gmail.com]).
-Asking me about everything? I am glad to help.
+** Any freelance work? Contact me, [My Email](yanwun1214@gmail.com]).
+** Asking me about everything? I am glad to help.
 
 ### Languages and Tools:
  <div style="display:inline;">
