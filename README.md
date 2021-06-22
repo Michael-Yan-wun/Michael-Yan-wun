@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-
-
-Wlecome to my coding base. I'm Michael Lin, a passionate self-taught AI, data developer and Full Stack web developer from Taiwan. My passion for engineer depends on dreaming to become an Engineer to make human life more convenient.
-
-I create some projects mainly about AI, and web application. For instance, fasion recommend system, online course system, negative-news classified and so on.
+Wlecome to my coding base. I'm Michael Lin, a passionate self-taught AI, data developer and Full Stack web developer from Taiwan. My passion for engineer depends on dreaming to become an Engineer to make human life more convenient. I create some projects mainly about AI, and web application. For instance, fasion recommend system, online course system, negative-news classified and so on.
 
 - Any freelance work? Contact me, [My Email](yanwun1214@gmail.com]).
 - Asking me about everything? I am glad to help.
