@@ -26,6 +26,6 @@ I create some projects mainly about AI, and web application. For instance, fasio
 
  ### My Github Stats:
  <a href="https://github.com/Michael-Yan-wun/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Michael-Yan-wun&show_icons=true&theme=radical&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Michael-Yan-wun&show_icons=true&theme=merko&show_icons=true">
  <a/>
 <!-- ![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michael-Yan-wun&show_icons=true&theme=highcontrast&show_icons=true) -->
