@@ -77,12 +77,21 @@
 ### 📊 GitHub
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Michael-Yan-wun&theme=github_dark" alt="GitHub profile details" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Michael-Yan-wun&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Michael-Yan-wun&theme=github_dark" alt="GitHub stats overview" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Michael-Yan-wun&theme=github_dark" alt="Most used languages" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Michael-Yan-wun&theme=github_dark" alt="Most used languages by commit" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Michael-Yan-wun&theme=github_dark" alt="Top languages by repo" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Michael-Yan-wun&theme=github_dark&utcOffset=8" alt="Most productive time of day" height="200" />
 </p>
 
 ---
