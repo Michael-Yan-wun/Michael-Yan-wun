@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/English-1F6FEB?style=for-the-badge&logoColor=white" alt="English" />
+  <a href="README.zh-TW.md"><img src="https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-30363D?style=for-the-badge&logoColor=white" alt="繁體中文" /></a>
+</p>
+
 <h1 align="center">Hi there, I'm Michael Lin 👋</h1>
 <h3 align="center">林彥文 · Chief Strategy Officer @ AIWin Technology (慧穩科技)</h3>
 
